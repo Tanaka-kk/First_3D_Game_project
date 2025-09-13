@@ -1,0 +1,29 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757762533
+default_bus_layout.tres::AudioBusLayout/AudioBusLayout::-1::1757751627::0::1::::<><><>0<>0<><>::
+default_env.tres::Environment/Environment::-1::1757751627::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D/CompressedTexture2D::5935165706801873627::1757751611::1757751633::1::::<><><>0<>0<>432ab35105b6a2cab25d31a3375a9509<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+main.gd::GDScript::3211597155163772941::1757761735::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::30064292036335856::1757762098::0::1::::<><><>0<>0<><>::uid://bl0yshsakvqhx::::res://main.gd<>uid://dsfrexlbjjxuh::::res://player.tscn<>uid://cv7w0sy3lp046::::res://mob.tscn<>uid://2un2qhpjg4mk::::res://fonts/paaymaay_regular.ttf<>uid://cbjl38nm3tb67::::res://score_label.gd<>uid://bmdrx744nkcb1::::res://art/Trash Dove.glb
+mob.gd::GDScript/GDScript::5536652644161559195::1757760872::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::6314248574386399237::1757762098::0::1::::<><><>0<>0<><>::uid://b08qh8j3giifw::::res://art/Cowboy Hat.glb<>uid://ck484ikyncps2::::res://mob.gd
+music_player.tscn::PackedScene::4335405289721190441::1757762098::0::1::::<><><>0<>0<><>::uid://cjbrhdfwfv44n::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::2839299244968740801::1757761594::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::8434023682474579779::1757762098::0::1::::<><><>0<>0<><>::uid://bgpm3xmjh1lbt::::res://player.gd<>uid://b1wsl4f70muix::::res://art/Little Man.glb
+score_label.gd::GDScript/GDScript::4862329253896944346::1757757189::0::1::::<>Label<><>0<>0<><>::
+::res://art/::1757759838
+body.material::StandardMaterial3D/StandardMaterial3D::-1::1757751611::0::1::::<><><>0<>0<><>::
+Cowboy Hat.glb::PackedScene/PackedScene::4210251961423809216::1757753588::1757753604::1::::<><><>0<>0<>ed73a2d3989d81f3b10b961f21cffe24<>res://.godot/imported/Cowboy Hat.glb-e414a46751610efbf39c2b2eac9810bd.scn::
+eye.material::StandardMaterial3D/StandardMaterial3D::-1::1757751611::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::5407650193618110931::1757751611::1757751633::1::::<><><>0<>0<>c2492c0e0e2dd98a763c6da5c9a717e4<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+Little Man.glb::PackedScene/PackedScene::4257861010863021607::1757751991::1757752021::1::::<><><>0<>0<>50cc9a461b81832b44c0637b2f961f0f<>res://.godot/imported/Little Man.glb-da0b5d41d8d779645a3ad007073038a7.scn::
+mob.glb::PackedScene/PackedScene::6175524364073911455::1757751611::1757751633::1::::<><><>0<>0<>aad4747c6c4c6dcaeb1246bdcfb1f2fa<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.material::StandardMaterial3D/StandardMaterial3D::-1::1757751611::0::1::::<><><>0<>0<><>::
+mob_eye.material::StandardMaterial3D/StandardMaterial3D::-1::1757751611::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene/PackedScene::5737386079906135288::1757751611::1757751633::1::::<><><>0<>0<>960ed24824d8951b817e31b71582457e<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.material::StandardMaterial3D/StandardMaterial3D::-1::1757751611::0::1::::<><><>0<>0<><>::
+Trash Dove.glb::PackedScene/PackedScene::3235954929630439236::1757759816::1757759838::1::::<><><>0<>0<>069e01dc6ef76b4faf3f699525e0940e<>res://.godot/imported/Trash Dove.glb-990392af67410d27f3078672d884f6f0.scn::
+::res://fonts/::1757756637
+LICENSE.txt::TextFile/TextFile::-1::1757751611::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile/FontFile::2784978744585533500::1757751611::1757751633::1::::<><><>0<>0<>d9f1545eea50964952c821fe07436598<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+paaymaay_regular.ttf::FontFile/FontFile::1937224722530527478::1757756619::1757756637::1::::<><><>0<>0<>e639e97cd67255b2a897534f18793dbe<>res://.godot/imported/paaymaay_regular.ttf-ab7cd6ce4734ec1142b52eca3f077579.fontdata::
